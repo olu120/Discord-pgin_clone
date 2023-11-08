@@ -1,0 +1,7 @@
+{
+    "require": {
+        "bacon/bacon-qr-code": "^2.0",
+        "endroid/qr-code": "^4.8",
+        "endroid/qrcode": "4.8.2"
+    }
+}
